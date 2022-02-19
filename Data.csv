@@ -1,0 +1,22 @@
+ip_address,first_name,last_name,,,,,,
+155.16.5.63,Amitie,Kornousek,,,,,,
+23.150.131.238,Tomasine,Kinsella,,,,,,
+169.98.93.70,Rik,Barrabeale,,,,,Sales,100
+50.183.2.2,Caroljean,Purkiss,,,,,Electricity,15000
+24.88.241.249,Vonni,Bescoby,,,,,Grocery,21000
+21.177.88.165,Perla,Godar,,,,,Staff Pay,20000
+173.49.98.65,Flo,Defau,,,,,Expenses,56000
+90.103.107.28,Engelbert,Godsmark,,,,,Profit,44000
+10.119.39.169,Donella,Cayford,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+id,Variable,Data Type,,,,,,
+ip_address,Text,Text,,,,,,
+first_name,Text,Text,,,,,,
+last_name,Text,Text,,,,,,
+email,Text,Text,,,,,,
+gender,Catagorical,Text,,,,,,
+Marks,,,,,,,,
+Student label,,,,,,,,
+Colour,,,,,,,,
